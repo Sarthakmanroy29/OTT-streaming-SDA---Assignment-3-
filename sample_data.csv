@@ -1,0 +1,501 @@
+event_id,timestamp,event_source,user_id,content_id,content_name,ad_duration_seconds,ad_event_type,ad_id,bitrate_kbps,buffering_seconds,completion_rate,country,device_type,event_type,interaction_type,latency_ms,platform,playback_error,post_text,rating,search_query,sentiment,sentiment_score,session_id,watch_time_seconds,watched_seconds
+AE941032,2026-08-30T20:22:13,ad_events,U9078,C010,Digital Hearts,15,impression,AD1578,,,93.33,,,,,,,,,,,,,,,14
+VE120260,2026-08-30T20:22:13,viewer_events,U5385,C006,Beyond the Stars,,,,,,,USA,mobile,complete,,,,,,,,,,S26434,1629,
+AE148145,2026-08-30T20:22:13,ad_events,U8838,C007,Shadow Protocol,60,complete,AD7427,,,100.0,,,,,,,,,,,,,,,60
+QE818112,2026-08-30T20:22:13,streaming_qos,U4280,C006,Beyond the Stars,,,,4685,7.42,,,mobile,,,25,,False,,,,,,S87471,,
+QE725955,2026-08-30T20:22:13,streaming_qos,U9063,C001,The Last Horizon,,,,2667,1.1,,,tablet,,,61,,False,,,,,,S78653,,
+VE757534,2026-08-30T20:22:13,viewer_events,U2868,C010,Digital Hearts,,,,,,,Australia,mobile,complete,,,,,,,,,,S65114,732,
+QE716963,2026-08-30T20:22:13,streaming_qos,U3969,C008,The Last Kingdom,,,,3733,17.41,,,tablet,,,235,,False,,,,,,S79714,,
+VE224576,2026-08-30T20:22:13,viewer_events,U1652,C006,Beyond the Stars,,,,,,,USA,smart_tv,skip,,,,,,,,,,S35457,3532,
+AE860888,2026-08-30T20:22:13,ad_events,U8916,C005,Delhi Files,60,impression,AD3686,,,45.0,,,,,,,,,,,,,,,27
+IE901807,2026-08-30T20:22:13,content_interactions,U6780,C003,Code Red,,,,,,,,tablet,,comment,,,,,,,,,,,
+SE164326,2026-08-30T20:22:13,social_sentiment,U2063,C010,Digital Hearts,,,,,,,,,,,,Instagram,,Loved this show!,,,positive,0.89,,,
+IE302895,2026-08-30T20:22:13,content_interactions,U9537,C001,The Last Horizon,,,,,,,,smart_tv,,like,,,,,,,,,,,
+SE235773,2026-08-30T20:22:13,social_sentiment,U1228,C007,Shadow Protocol,,,,,,,,,,,,YouTube,,I did not enjoy this episode.,,,negative,-0.42,,,
+QE437818,2026-08-30T20:22:13,streaming_qos,U7715,C001,The Last Horizon,,,,4880,6.04,,,mobile,,,452,,True,,,,,,S64369,,
+SE351647,2026-08-30T20:22:13,social_sentiment,U7510,C009,City of Dreams,,,,,,,,,,,,YouTube,,The episode was disappointing.,,,negative,-0.36,,,
+IE636628,2026-08-30T20:22:13,content_interactions,U6744,C002,Midnight Mumbai,,,,,,,,tablet,,comment,,,,,,,,,,,
+VE472124,2026-08-30T20:22:13,viewer_events,U4927,C010,Digital Hearts,,,,,,,Australia,laptop,complete,,,,,,,,,,S86854,1436,
+IE176734,2026-08-30T20:22:13,content_interactions,U9265,C007,Shadow Protocol,,,,,,,,laptop,,rating,,,,,3,,,,,,
+VE390075,2026-08-30T20:22:13,viewer_events,U4537,C009,City of Dreams,,,,,,,UK,mobile,skip,,,,,,,,,,S22121,2596,
+AE331912,2026-08-30T20:22:13,ad_events,U8781,C010,Digital Hearts,45,impression,AD2480,,,60.0,,,,,,,,,,,,,,,27
+SE719137,2026-08-30T20:22:13,social_sentiment,U5843,C001,The Last Horizon,,,,,,,,,,,,Facebook,,The show was interesting.,,,neutral,-0.03,,,
+IE594410,2026-08-30T20:22:13,content_interactions,U1490,C008,The Last Kingdom,,,,,,,,mobile,,like,,,,,,,,,,,
+IE706094,2026-08-30T20:22:13,content_interactions,U9911,C005,Delhi Files,,,,,,,,mobile,,comment,,,,,,,,,,,
+IE501711,2026-08-30T20:22:13,content_interactions,U2000,C005,Delhi Files,,,,,,,,smart_tv,,rating,,,,,5,,,,,,
+QE130145,2026-08-30T20:22:13,streaming_qos,U2561,C004,The Final Season,,,,9933,17.52,,,tablet,,,328,,True,,,,,,S79186,,
+QE381190,2026-08-30T20:22:13,streaming_qos,U4333,C005,Delhi Files,,,,9704,3.17,,,mobile,,,94,,True,,,,,,S97409,,
+AE914097,2026-08-30T20:22:13,ad_events,U9253,C007,Shadow Protocol,30,click,AD9604,,,86.67,,,,,,,,,,,,,,,26
+AE423944,2026-08-30T20:22:13,ad_events,U3177,C006,Beyond the Stars,15,complete,AD8051,,,100.0,,,,,,,,,,,,,,,15
+IE409954,2026-08-30T20:22:13,content_interactions,U3388,C001,The Last Horizon,,,,,,,,smart_tv,,like,,,,,,,,,,,
+AE104823,2026-08-30T20:22:13,ad_events,U8116,C005,Delhi Files,15,impression,AD6300,,,66.67,,,,,,,,,,,,,,,10
+SE895885,2026-08-30T20:22:13,social_sentiment,U8456,C005,Delhi Files,,,,,,,,,,,,Instagram,,Not happy with the latest episode.,,,negative,-0.32,,,
+VE436326,2026-08-30T20:22:13,viewer_events,U6065,C006,Beyond the Stars,,,,,,,USA,laptop,exit,,,,,,,,,,S94620,3115,
+VE379823,2026-08-30T20:22:13,viewer_events,U6594,C001,The Last Horizon,,,,,,,USA,tablet,skip,,,,,,,,,,S58778,2860,
+QE284089,2026-08-30T20:22:13,streaming_qos,U3117,C009,City of Dreams,,,,5008,14.18,,,mobile,,,260,,False,,,,,,S88649,,
+VE510261,2026-08-30T20:22:13,viewer_events,U8291,C007,Shadow Protocol,,,,,,,Canada,laptop,complete,,,,,,,,,,S28666,2248,
+IE213529,2026-08-30T20:22:13,content_interactions,U2588,C001,The Last Horizon,,,,,,,,tablet,,comment,,,,,,,,,,,
+VE686554,2026-08-30T20:22:13,viewer_events,U3974,C004,The Final Season,,,,,,,UK,tablet,exit,,,,,,,,,,S47802,3478,
+QE903771,2026-08-30T20:22:13,streaming_qos,U8159,C009,City of Dreams,,,,1042,5.89,,,mobile,,,459,,True,,,,,,S55542,,
+SE759986,2026-08-30T20:22:13,social_sentiment,U1393,C003,Code Red,,,,,,,,,,,,X,,Not happy with the latest episode.,,,negative,-0.21,,,
+QE301218,2026-08-30T20:22:13,streaming_qos,U8928,C005,Delhi Files,,,,7985,27.07,,,mobile,,,308,,False,,,,,,S22285,,
+VE557817,2026-08-30T20:22:13,viewer_events,U6953,C002,Midnight Mumbai,,,,,,,India,mobile,complete,,,,,,,,,,S12789,1071,
+AE518033,2026-08-30T20:22:13,ad_events,U3398,C004,The Final Season,45,impression,AD1582,,,60.0,,,,,,,,,,,,,,,27
+IE109585,2026-08-30T20:22:13,content_interactions,U5469,C006,Beyond the Stars,,,,,,,,mobile,,share,,,,,,,,,,,
+IE788603,2026-08-30T20:22:13,content_interactions,U5076,C010,Digital Hearts,,,,,,,,mobile,,search,,,,,,Delhi Files,,,,,
+AE218196,2026-08-30T20:22:13,ad_events,U8049,C008,The Last Kingdom,30,skip,AD6226,,,3.33,,,,,,,,,,,,,,,1
+VE853137,2026-08-30T20:22:13,viewer_events,U4588,C008,The Last Kingdom,,,,,,,Australia,laptop,pause,,,,,,,,,,S76253,2245,
+SE426141,2026-08-30T20:22:13,social_sentiment,U1760,C005,Delhi Files,,,,,,,,,,,,Instagram,,Loved this show!,,,positive,0.86,,,
+SE904302,2026-08-30T20:22:13,social_sentiment,U6383,C004,The Final Season,,,,,,,,,,,,Facebook,,The story could be better.,,,negative,-0.25,,,
+QE328239,2026-08-30T20:22:13,streaming_qos,U2124,C009,City of Dreams,,,,2252,26.31,,,tablet,,,302,,True,,,,,,S91976,,
+VE172586,2026-08-30T20:22:13,viewer_events,U4219,C009,City of Dreams,,,,,,,India,smart_tv,complete,,,,,,,,,,S39743,402,
+VE125039,2026-08-30T20:22:13,viewer_events,U2638,C009,City of Dreams,,,,,,,India,laptop,exit,,,,,,,,,,S33254,1530,
+AE345500,2026-08-30T20:22:13,ad_events,U4089,C003,Code Red,20,impression,AD8471,,,65.0,,,,,,,,,,,,,,,13
+IE221419,2026-08-30T20:22:13,content_interactions,U2810,C006,Beyond the Stars,,,,,,,,tablet,,like,,,,,,,,,,,
+VE509819,2026-08-30T20:22:13,viewer_events,U5069,C010,Digital Hearts,,,,,,,India,tablet,skip,,,,,,,,,,S77609,1352,
+AE328414,2026-08-30T20:22:13,ad_events,U5016,C009,City of Dreams,30,skip,AD8422,,,33.33,,,,,,,,,,,,,,,10
+SE151756,2026-08-30T20:22:13,social_sentiment,U3665,C005,Delhi Files,,,,,,,,,,,,YouTube,,The episode was disappointing.,,,negative,-0.36,,,
+VE931278,2026-08-30T20:22:13,viewer_events,U2797,C006,Beyond the Stars,,,,,,,USA,tablet,complete,,,,,,,,,,S35631,3277,
+QE714160,2026-08-30T20:22:13,streaming_qos,U4930,C009,City of Dreams,,,,5317,5.59,,,mobile,,,392,,False,,,,,,S70191,,
+QE584781,2026-08-30T20:22:13,streaming_qos,U9775,C004,The Final Season,,,,2842,20.12,,,laptop,,,487,,True,,,,,,S31631,,
+IE147770,2026-08-30T20:22:13,content_interactions,U4731,C004,The Final Season,,,,,,,,tablet,,search,,,,,,The Last Horizon,,,,,
+SE600016,2026-08-30T20:22:13,social_sentiment,U7023,C005,Delhi Files,,,,,,,,,,,,YouTube,,The episode was too slow.,,,negative,-0.4,,,
+SE306358,2026-08-30T20:22:13,social_sentiment,U9497,C004,The Final Season,,,,,,,,,,,,Instagram,,It was an average episode.,,,neutral,-0.08,,,
+IE823630,2026-08-30T20:22:13,content_interactions,U1232,C001,The Last Horizon,,,,,,,,smart_tv,,search,,,,,,best thriller series,,,,,
+IE731965,2026-08-30T20:22:13,content_interactions,U6737,C004,The Final Season,,,,,,,,laptop,,like,,,,,,,,,,,
+QE642206,2026-08-30T20:22:13,streaming_qos,U8671,C001,The Last Horizon,,,,3807,9.79,,,mobile,,,384,,False,,,,,,S59611,,
+QE237228,2026-08-30T20:22:13,streaming_qos,U3266,C006,Beyond the Stars,,,,5909,14.27,,,laptop,,,430,,False,,,,,,S53553,,
+AE246257,2026-08-30T20:22:13,ad_events,U5806,C007,Shadow Protocol,20,impression,AD8158,,,30.0,,,,,,,,,,,,,,,6
+IE570938,2026-08-30T20:22:13,content_interactions,U7008,C005,Delhi Files,,,,,,,,mobile,,search,,,,,,Code Red,,,,,
+QE454688,2026-08-30T20:22:13,streaming_qos,U7231,C006,Beyond the Stars,,,,2672,22.61,,,laptop,,,24,,False,,,,,,S39965,,
+VE198620,2026-08-30T20:22:13,viewer_events,U7001,C005,Delhi Files,,,,,,,UK,laptop,complete,,,,,,,,,,S48930,2827,
+IE357804,2026-08-30T20:22:13,content_interactions,U4925,C008,The Last Kingdom,,,,,,,,laptop,,share,,,,,,,,,,,
+VE965756,2026-08-30T20:22:13,viewer_events,U9017,C003,Code Red,,,,,,,Singapore,laptop,pause,,,,,,,,,,S14656,787,
+VE912434,2026-08-30T20:22:13,viewer_events,U8230,C002,Midnight Mumbai,,,,,,,Australia,mobile,exit,,,,,,,,,,S36412,2010,
+SE116265,2026-08-30T20:22:13,social_sentiment,U5892,C008,The Last Kingdom,,,,,,,,,,,,X,,The story could be better.,,,negative,-0.35,,,
+QE379629,2026-08-30T20:22:13,streaming_qos,U9500,C007,Shadow Protocol,,,,3620,21.59,,,smart_tv,,,218,,True,,,,,,S79014,,
+QE140991,2026-08-30T20:22:13,streaming_qos,U6066,C008,The Last Kingdom,,,,927,12.35,,,laptop,,,259,,True,,,,,,S46750,,
+IE486930,2026-08-30T20:22:13,content_interactions,U2335,C007,Shadow Protocol,,,,,,,,smart_tv,,search,,,,,,best thriller series,,,,,
+IE644575,2026-08-30T20:22:13,content_interactions,U7827,C009,City of Dreams,,,,,,,,laptop,,rating,,,,,2,,,,,,
+AE465910,2026-08-30T20:22:13,ad_events,U5082,C003,Code Red,20,complete,AD9673,,,100.0,,,,,,,,,,,,,,,20
+QE427844,2026-08-30T20:22:13,streaming_qos,U8279,C008,The Last Kingdom,,,,5067,27.18,,,smart_tv,,,361,,True,,,,,,S53773,,
+AE670745,2026-08-30T20:22:13,ad_events,U4830,C006,Beyond the Stars,30,complete,AD4840,,,100.0,,,,,,,,,,,,,,,30
+IE592991,2026-08-30T20:22:13,content_interactions,U6123,C004,The Final Season,,,,,,,,laptop,,like,,,,,,,,,,,
+AE267477,2026-08-30T20:22:13,ad_events,U2893,C007,Shadow Protocol,15,complete,AD3191,,,100.0,,,,,,,,,,,,,,,15
+AE329913,2026-08-30T20:22:13,ad_events,U2690,C010,Digital Hearts,15,skip,AD5937,,,20.0,,,,,,,,,,,,,,,3
+VE307567,2026-08-30T20:22:13,viewer_events,U9130,C008,The Last Kingdom,,,,,,,USA,tablet,play,,,,,,,,,,S23768,1919,
+QE769911,2026-08-30T20:22:13,streaming_qos,U1890,C004,The Final Season,,,,9456,5.01,,,tablet,,,114,,True,,,,,,S41885,,
+QE114082,2026-08-30T20:22:13,streaming_qos,U9258,C001,The Last Horizon,,,,3532,20.68,,,laptop,,,388,,False,,,,,,S20415,,
+AE566837,2026-08-30T20:22:13,ad_events,U7549,C010,Digital Hearts,45,skip,AD2715,,,91.11,,,,,,,,,,,,,,,41
+SE227044,2026-08-30T20:22:13,social_sentiment,U9691,C008,The Last Kingdom,,,,,,,,,,,,Instagram,,The show was interesting.,,,neutral,-0.02,,,
+QE184353,2026-08-30T20:22:13,streaming_qos,U2895,C001,The Last Horizon,,,,7762,14.29,,,tablet,,,234,,False,,,,,,S89378,,
+VE645695,2026-08-30T20:22:13,viewer_events,U3434,C008,The Last Kingdom,,,,,,,UK,smart_tv,complete,,,,,,,,,,S79233,3481,
+QE124729,2026-08-30T20:22:13,streaming_qos,U7644,C004,The Final Season,,,,3192,14.48,,,tablet,,,90,,False,,,,,,S57244,,
+VE985928,2026-08-30T20:22:13,viewer_events,U1025,C006,Beyond the Stars,,,,,,,Canada,tablet,complete,,,,,,,,,,S68379,1164,
+SE107712,2026-08-30T20:22:13,social_sentiment,U1652,C005,Delhi Files,,,,,,,,,,,,X,,The episode was disappointing.,,,negative,-0.45,,,
+VE648901,2026-08-30T20:22:13,viewer_events,U6320,C008,The Last Kingdom,,,,,,,Australia,smart_tv,skip,,,,,,,,,,S21219,394,
+SE248073,2026-08-30T20:22:13,social_sentiment,U9604,C009,City of Dreams,,,,,,,,,,,,Instagram,,The show was interesting.,,,neutral,0.02,,,
+AE943529,2026-08-30T20:22:13,ad_events,U9537,C007,Shadow Protocol,20,skip,AD3821,,,75.0,,,,,,,,,,,,,,,15
+QE252519,2026-08-30T20:22:13,streaming_qos,U5847,C002,Midnight Mumbai,,,,2433,13.86,,,mobile,,,494,,True,,,,,,S69596,,
+SE104676,2026-08-30T20:22:13,social_sentiment,U5653,C006,Beyond the Stars,,,,,,,,,,,,YouTube,,The episode was fine.,,,neutral,-0.08,,,
+QE227860,2026-08-30T20:22:13,streaming_qos,U4257,C003,Code Red,,,,4399,1.28,,,tablet,,,124,,False,,,,,,S45253,,
+IE126721,2026-08-30T20:22:13,content_interactions,U6004,C008,The Last Kingdom,,,,,,,,tablet,,share,,,,,,,,,,,
+SE585352,2026-08-30T20:22:13,social_sentiment,U4650,C004,The Final Season,,,,,,,,,,,,Facebook,,This episode was amazing!,,,positive,0.74,,,
+AE257497,2026-08-30T20:22:13,ad_events,U6457,C004,The Final Season,45,complete,AD1259,,,100.0,,,,,,,,,,,,,,,45
+QE983572,2026-08-30T20:22:13,streaming_qos,U5298,C004,The Final Season,,,,2408,21.26,,,mobile,,,275,,True,,,,,,S68607,,
+VE783885,2026-08-30T20:22:13,viewer_events,U5594,C004,The Final Season,,,,,,,USA,laptop,exit,,,,,,,,,,S97605,2988,
+SE188293,2026-08-30T20:22:13,social_sentiment,U6055,C001,The Last Horizon,,,,,,,,,,,,Instagram,,I did not enjoy this episode.,,,negative,-0.62,,,
+QE259988,2026-08-30T20:22:13,streaming_qos,U7305,C004,The Final Season,,,,8382,26.86,,,smart_tv,,,130,,True,,,,,,S15277,,
+QE858243,2026-08-30T20:22:13,streaming_qos,U9857,C009,City of Dreams,,,,6835,20.96,,,smart_tv,,,355,,False,,,,,,S14503,,
+SE705251,2026-08-30T20:22:13,social_sentiment,U8723,C006,Beyond the Stars,,,,,,,,,,,,X,,The episode was fine.,,,neutral,0.01,,,
+QE291210,2026-08-30T20:22:13,streaming_qos,U5399,C010,Digital Hearts,,,,6216,29.85,,,mobile,,,416,,True,,,,,,S28495,,
+SE684803,2026-08-30T20:22:13,social_sentiment,U7763,C009,City of Dreams,,,,,,,,,,,,Instagram,,Amazing episode!,,,positive,0.51,,,
+VE204393,2026-08-30T20:22:13,viewer_events,U6804,C006,Beyond the Stars,,,,,,,Australia,smart_tv,exit,,,,,,,,,,S25150,522,
+IE353618,2026-08-30T20:22:13,content_interactions,U8607,C005,Delhi Files,,,,,,,,laptop,,comment,,,,,,,,,,,
+AE759511,2026-08-30T20:22:13,ad_events,U5701,C003,Code Red,20,skip,AD8209,,,45.0,,,,,,,,,,,,,,,9
+QE628353,2026-08-30T20:22:13,streaming_qos,U3759,C003,Code Red,,,,4737,26.21,,,tablet,,,198,,True,,,,,,S40529,,
+IE252722,2026-08-30T20:22:13,content_interactions,U4727,C006,Beyond the Stars,,,,,,,,mobile,,share,,,,,,,,,,,
+IE650712,2026-08-30T20:22:13,content_interactions,U6827,C009,City of Dreams,,,,,,,,tablet,,comment,,,,,,,,,,,
+AE805328,2026-08-30T20:22:13,ad_events,U7447,C007,Shadow Protocol,20,impression,AD9535,,,75.0,,,,,,,,,,,,,,,15
+AE587915,2026-08-30T20:22:13,ad_events,U1306,C008,The Last Kingdom,60,impression,AD5567,,,13.33,,,,,,,,,,,,,,,8
+AE720213,2026-08-30T20:22:13,ad_events,U9686,C001,The Last Horizon,30,skip,AD6829,,,66.67,,,,,,,,,,,,,,,20
+SE387034,2026-08-30T20:22:13,social_sentiment,U7005,C007,Shadow Protocol,,,,,,,,,,,,X,,Loved this show!,,,positive,0.58,,,
+SE939624,2026-08-30T20:22:13,social_sentiment,U2899,C008,The Last Kingdom,,,,,,,,,,,,X,,This episode was amazing!,,,positive,0.34,,,
+AE909463,2026-08-30T20:22:13,ad_events,U7494,C008,The Last Kingdom,60,skip,AD7534,,,13.33,,,,,,,,,,,,,,,8
+VE900928,2026-08-30T20:22:13,viewer_events,U1382,C010,Digital Hearts,,,,,,,UK,laptop,skip,,,,,,,,,,S44693,1680,
+QE167362,2026-08-30T20:22:13,streaming_qos,U9392,C010,Digital Hearts,,,,3299,9.2,,,smart_tv,,,474,,True,,,,,,S45154,,
+AE450120,2026-08-30T20:22:13,ad_events,U3653,C010,Digital Hearts,45,impression,AD8529,,,33.33,,,,,,,,,,,,,,,15
+IE883589,2026-08-30T20:22:13,content_interactions,U7318,C006,Beyond the Stars,,,,,,,,tablet,,comment,,,,,,,,,,,
+SE132242,2026-08-30T20:22:13,social_sentiment,U8244,C010,Digital Hearts,,,,,,,,,,,,Instagram,,I did not enjoy this episode.,,,negative,-0.54,,,
+QE803241,2026-08-30T20:22:13,streaming_qos,U9478,C007,Shadow Protocol,,,,2713,16.56,,,smart_tv,,,109,,True,,,,,,S61344,,
+AE699332,2026-08-30T20:22:13,ad_events,U1009,C001,The Last Horizon,15,impression,AD8470,,,13.33,,,,,,,,,,,,,,,2
+QE171874,2026-08-30T20:22:13,streaming_qos,U4881,C009,City of Dreams,,,,2054,26.0,,,smart_tv,,,379,,True,,,,,,S99809,,
+IE451207,2026-08-30T20:22:13,content_interactions,U4616,C001,The Last Horizon,,,,,,,,tablet,,search,,,,,,Code Red,,,,,
+VE578410,2026-08-30T20:22:13,viewer_events,U2233,C008,The Last Kingdom,,,,,,,USA,laptop,skip,,,,,,,,,,S86886,2134,
+VE540414,2026-08-30T20:22:13,viewer_events,U5234,C006,Beyond the Stars,,,,,,,India,mobile,complete,,,,,,,,,,S20915,745,
+VE460268,2026-08-30T20:22:13,viewer_events,U4960,C008,The Last Kingdom,,,,,,,Canada,smart_tv,play,,,,,,,,,,S64517,972,
+VE725977,2026-08-30T20:22:13,viewer_events,U9550,C007,Shadow Protocol,,,,,,,Australia,tablet,play,,,,,,,,,,S59125,1133,
+SE416634,2026-08-30T20:22:13,social_sentiment,U8216,C007,Shadow Protocol,,,,,,,,,,,,X,,Amazing episode!,,,positive,0.5,,,
+VE112443,2026-08-30T20:22:13,viewer_events,U8713,C010,Digital Hearts,,,,,,,UK,mobile,exit,,,,,,,,,,S12117,23,
+VE228965,2026-08-30T20:22:13,viewer_events,U4710,C010,Digital Hearts,,,,,,,Australia,smart_tv,exit,,,,,,,,,,S25720,889,
+AE768371,2026-08-30T20:22:13,ad_events,U5124,C010,Digital Hearts,60,click,AD8632,,,98.33,,,,,,,,,,,,,,,59
+IE336262,2026-08-30T20:22:13,content_interactions,U1646,C010,Digital Hearts,,,,,,,,tablet,,search,,,,,,trending series,,,,,
+AE824199,2026-08-30T20:22:13,ad_events,U2124,C004,The Final Season,45,click,AD8802,,,80.0,,,,,,,,,,,,,,,36
+AE935211,2026-08-30T20:22:13,ad_events,U1854,C006,Beyond the Stars,60,skip,AD2519,,,66.67,,,,,,,,,,,,,,,40
+IE605623,2026-08-30T20:22:13,content_interactions,U9350,C004,The Final Season,,,,,,,,laptop,,search,,,,,,trending series,,,,,
+AE262299,2026-08-30T20:22:13,ad_events,U5219,C002,Midnight Mumbai,30,impression,AD6253,,,13.33,,,,,,,,,,,,,,,4
+SE517226,2026-08-30T20:22:13,social_sentiment,U5885,C008,The Last Kingdom,,,,,,,,,,,,Facebook,,The episode was too slow.,,,negative,-0.13,,,
+VE773266,2026-08-30T20:22:13,viewer_events,U2806,C004,The Final Season,,,,,,,India,mobile,play,,,,,,,,,,S57823,2862,
+IE326552,2026-08-30T20:22:13,content_interactions,U9502,C007,Shadow Protocol,,,,,,,,tablet,,rating,,,,,3,,,,,,
+SE638249,2026-08-30T20:22:13,social_sentiment,U6114,C005,Delhi Files,,,,,,,,,,,,Instagram,,It was an average episode.,,,neutral,-0.03,,,
+QE642056,2026-08-30T20:22:13,streaming_qos,U4570,C006,Beyond the Stars,,,,6983,3.33,,,tablet,,,424,,True,,,,,,S39895,,
+VE348680,2026-08-30T20:22:13,viewer_events,U2503,C010,Digital Hearts,,,,,,,UK,tablet,play,,,,,,,,,,S26428,2816,
+AE379606,2026-08-30T20:22:13,ad_events,U5132,C003,Code Red,15,click,AD2659,,,53.33,,,,,,,,,,,,,,,8
+QE533815,2026-08-30T20:22:13,streaming_qos,U3275,C004,The Final Season,,,,2259,26.98,,,mobile,,,99,,False,,,,,,S99034,,
+SE203122,2026-08-30T20:22:13,social_sentiment,U5446,C009,City of Dreams,,,,,,,,,,,,Instagram,,The episode was fine.,,,neutral,-0.02,,,
+IE303257,2026-08-30T20:22:13,content_interactions,U8735,C010,Digital Hearts,,,,,,,,tablet,,like,,,,,,,,,,,
+IE393144,2026-08-30T20:22:13,content_interactions,U6078,C006,Beyond the Stars,,,,,,,,smart_tv,,search,,,,,,The Last Horizon,,,,,
+AE704891,2026-08-30T20:22:13,ad_events,U2482,C004,The Final Season,15,click,AD5631,,,33.33,,,,,,,,,,,,,,,5
+SE881566,2026-08-30T20:22:13,social_sentiment,U4319,C002,Midnight Mumbai,,,,,,,,,,,,YouTube,,The show was interesting.,,,neutral,-0.07,,,
+AE748484,2026-08-30T20:22:13,ad_events,U9882,C003,Code Red,30,click,AD8655,,,63.33,,,,,,,,,,,,,,,19
+SE216201,2026-08-30T20:22:13,social_sentiment,U3253,C010,Digital Hearts,,,,,,,,,,,,YouTube,,The story could be better.,,,negative,-0.77,,,
+QE552826,2026-08-30T20:22:13,streaming_qos,U1495,C008,The Last Kingdom,,,,2515,7.84,,,mobile,,,482,,False,,,,,,S73345,,
+AE797591,2026-08-30T20:22:13,ad_events,U7955,C004,The Final Season,15,click,AD8891,,,86.67,,,,,,,,,,,,,,,13
+QE712382,2026-08-30T20:22:13,streaming_qos,U3028,C007,Shadow Protocol,,,,3002,21.63,,,mobile,,,334,,True,,,,,,S82413,,
+AE394593,2026-08-30T20:22:13,ad_events,U1176,C007,Shadow Protocol,15,impression,AD7733,,,60.0,,,,,,,,,,,,,,,9
+VE811391,2026-08-30T20:22:13,viewer_events,U3425,C005,Delhi Files,,,,,,,Singapore,laptop,play,,,,,,,,,,S76222,121,
+IE776190,2026-08-30T20:22:13,content_interactions,U3020,C008,The Last Kingdom,,,,,,,,smart_tv,,rating,,,,,5,,,,,,
+QE320994,2026-08-30T20:22:13,streaming_qos,U8439,C009,City of Dreams,,,,2711,10.47,,,tablet,,,386,,True,,,,,,S64615,,
+SE965806,2026-08-30T20:22:13,social_sentiment,U9242,C005,Delhi Files,,,,,,,,,,,,Instagram,,It was an average episode.,,,neutral,0.04,,,
+AE456799,2026-08-30T20:22:13,ad_events,U6710,C003,Code Red,20,click,AD7024,,,90.0,,,,,,,,,,,,,,,18
+VE878293,2026-08-30T20:22:13,viewer_events,U3067,C002,Midnight Mumbai,,,,,,,Singapore,smart_tv,skip,,,,,,,,,,S77303,1643,
+IE378596,2026-08-30T20:22:13,content_interactions,U1064,C008,The Last Kingdom,,,,,,,,mobile,,rating,,,,,3,,,,,,
+IE797128,2026-08-30T20:22:13,content_interactions,U6691,C002,Midnight Mumbai,,,,,,,,tablet,,like,,,,,,,,,,,
+VE115739,2026-08-30T20:22:13,viewer_events,U8311,C003,Code Red,,,,,,,Canada,tablet,play,,,,,,,,,,S99731,2518,
+AE803950,2026-08-30T20:22:13,ad_events,U2495,C010,Digital Hearts,15,skip,AD7068,,,93.33,,,,,,,,,,,,,,,14
+QE644854,2026-08-30T20:22:13,streaming_qos,U4417,C008,The Last Kingdom,,,,865,16.96,,,mobile,,,190,,False,,,,,,S90304,,
+SE694463,2026-08-30T20:22:13,social_sentiment,U8198,C004,The Final Season,,,,,,,,,,,,Facebook,,The episode was disappointing.,,,negative,-0.35,,,
+VE840766,2026-08-30T20:22:13,viewer_events,U6942,C001,The Last Horizon,,,,,,,UK,laptop,pause,,,,,,,,,,S54427,3015,
+IE499491,2026-08-30T20:22:13,content_interactions,U4754,C004,The Final Season,,,,,,,,smart_tv,,comment,,,,,,,,,,,
+VE501890,2026-08-30T20:22:13,viewer_events,U4648,C007,Shadow Protocol,,,,,,,UK,mobile,play,,,,,,,,,,S93012,647,
+AE411029,2026-08-30T20:22:13,ad_events,U5791,C006,Beyond the Stars,60,click,AD2947,,,55.0,,,,,,,,,,,,,,,33
+VE559059,2026-08-30T20:22:13,viewer_events,U4656,C002,Midnight Mumbai,,,,,,,Canada,tablet,pause,,,,,,,,,,S35856,998,
+IE245283,2026-08-30T20:22:13,content_interactions,U9687,C001,The Last Horizon,,,,,,,,smart_tv,,like,,,,,,,,,,,
+IE620061,2026-08-30T20:22:13,content_interactions,U5846,C005,Delhi Files,,,,,,,,smart_tv,,like,,,,,,,,,,,
+IE670833,2026-08-30T20:22:13,content_interactions,U5849,C010,Digital Hearts,,,,,,,,smart_tv,,rating,,,,,3,,,,,,
+VE648103,2026-08-30T20:22:13,viewer_events,U4735,C007,Shadow Protocol,,,,,,,Canada,smart_tv,pause,,,,,,,,,,S15377,1847,
+SE507469,2026-08-30T20:22:13,social_sentiment,U3023,C009,City of Dreams,,,,,,,,,,,,X,,The show was interesting.,,,neutral,-0.0,,,
+AE961504,2026-08-30T20:22:13,ad_events,U4915,C001,The Last Horizon,60,skip,AD8664,,,20.0,,,,,,,,,,,,,,,12
+SE632408,2026-08-30T20:22:13,social_sentiment,U9249,C007,Shadow Protocol,,,,,,,,,,,,Facebook,,"Not bad, not great.",,,neutral,0.01,,,
+VE569374,2026-08-30T20:22:13,viewer_events,U9238,C008,The Last Kingdom,,,,,,,India,tablet,exit,,,,,,,,,,S14549,553,
+QE211016,2026-08-30T20:22:13,streaming_qos,U3397,C003,Code Red,,,,5765,12.44,,,smart_tv,,,261,,False,,,,,,S81266,,
+SE375072,2026-08-30T20:22:13,social_sentiment,U3095,C007,Shadow Protocol,,,,,,,,,,,,Facebook,,The episode was fine.,,,neutral,-0.09,,,
+AE647456,2026-08-30T20:22:13,ad_events,U1786,C010,Digital Hearts,60,skip,AD6668,,,31.67,,,,,,,,,,,,,,,19
+AE973559,2026-08-30T20:22:13,ad_events,U8588,C006,Beyond the Stars,45,impression,AD8046,,,28.89,,,,,,,,,,,,,,,13
+IE214759,2026-08-30T20:22:13,content_interactions,U5457,C002,Midnight Mumbai,,,,,,,,smart_tv,,comment,,,,,,,,,,,
+AE243446,2026-08-30T20:22:13,ad_events,U3464,C001,The Last Horizon,45,complete,AD9306,,,100.0,,,,,,,,,,,,,,,45
+SE891943,2026-08-30T20:22:13,social_sentiment,U9638,C004,The Final Season,,,,,,,,,,,,X,,The episode was disappointing.,,,negative,-0.99,,,
+SE548620,2026-08-30T20:22:13,social_sentiment,U4053,C005,Delhi Files,,,,,,,,,,,,YouTube,,The story could be better.,,,negative,-0.18,,,
+QE334353,2026-08-30T20:22:13,streaming_qos,U5753,C003,Code Red,,,,7640,13.56,,,laptop,,,48,,False,,,,,,S18786,,
+IE524886,2026-08-30T20:22:13,content_interactions,U5931,C004,The Final Season,,,,,,,,smart_tv,,like,,,,,,,,,,,
+SE963922,2026-08-30T20:22:13,social_sentiment,U3164,C002,Midnight Mumbai,,,,,,,,,,,,YouTube,,The episode was fine.,,,neutral,-0.03,,,
+SE486497,2026-08-30T20:22:13,social_sentiment,U5810,C004,The Final Season,,,,,,,,,,,,Instagram,,The episode was disappointing.,,,negative,-0.35,,,
+IE548858,2026-08-30T20:22:13,content_interactions,U1541,C009,City of Dreams,,,,,,,,tablet,,rating,,,,,5,,,,,,
+IE909988,2026-08-30T20:22:13,content_interactions,U2866,C001,The Last Horizon,,,,,,,,smart_tv,,comment,,,,,,,,,,,
+VE256995,2026-08-30T20:22:13,viewer_events,U3454,C005,Delhi Files,,,,,,,Singapore,mobile,play,,,,,,,,,,S63637,1595,
+VE609988,2026-08-30T20:22:13,viewer_events,U6529,C009,City of Dreams,,,,,,,USA,mobile,exit,,,,,,,,,,S57885,1872,
+SE740527,2026-08-30T20:22:13,social_sentiment,U8845,C004,The Final Season,,,,,,,,,,,,Facebook,,Really enjoyed this show!,,,positive,0.44,,,
+VE124484,2026-08-30T20:22:13,viewer_events,U3484,C001,The Last Horizon,,,,,,,Australia,laptop,exit,,,,,,,,,,S81528,1684,
+VE444691,2026-08-30T20:22:13,viewer_events,U1772,C003,Code Red,,,,,,,UK,tablet,pause,,,,,,,,,,S27340,2061,
+VE675559,2026-08-30T20:22:13,viewer_events,U9064,C006,Beyond the Stars,,,,,,,Singapore,mobile,exit,,,,,,,,,,S53226,2783,
+SE147259,2026-08-30T20:22:13,social_sentiment,U1504,C002,Midnight Mumbai,,,,,,,,,,,,Facebook,,The episode was disappointing.,,,negative,-0.35,,,
+QE992871,2026-08-30T20:22:13,streaming_qos,U1624,C010,Digital Hearts,,,,7981,8.38,,,laptop,,,72,,False,,,,,,S22205,,
+AE982565,2026-08-30T20:22:13,ad_events,U1869,C003,Code Red,20,impression,AD2658,,,30.0,,,,,,,,,,,,,,,6
+IE174250,2026-08-30T20:22:13,content_interactions,U3402,C003,Code Red,,,,,,,,tablet,,comment,,,,,,,,,,,
+SE226448,2026-08-30T20:22:13,social_sentiment,U3747,C005,Delhi Files,,,,,,,,,,,,YouTube,,The episode was okay.,,,neutral,-0.07,,,
+SE686931,2026-08-30T20:22:13,social_sentiment,U5148,C006,Beyond the Stars,,,,,,,,,,,,Facebook,,This episode was amazing!,,,positive,0.1,,,
+SE924907,2026-08-30T20:22:13,social_sentiment,U2882,C009,City of Dreams,,,,,,,,,,,,X,,The episode was fine.,,,neutral,-0.03,,,
+VE830879,2026-08-30T20:22:13,viewer_events,U4353,C002,Midnight Mumbai,,,,,,,Singapore,tablet,complete,,,,,,,,,,S38434,3015,
+IE976466,2026-08-30T20:22:13,content_interactions,U7079,C007,Shadow Protocol,,,,,,,,tablet,,rating,,,,,3,,,,,,
+AE772633,2026-08-30T20:22:13,ad_events,U2734,C009,City of Dreams,15,impression,AD5578,,,80.0,,,,,,,,,,,,,,,12
+QE663979,2026-08-30T20:22:13,streaming_qos,U8216,C004,The Final Season,,,,7495,4.35,,,tablet,,,387,,False,,,,,,S64121,,
+QE818377,2026-08-30T20:22:13,streaming_qos,U3611,C009,City of Dreams,,,,3033,25.51,,,mobile,,,65,,True,,,,,,S32512,,
+AE973688,2026-08-30T20:22:13,ad_events,U6475,C002,Midnight Mumbai,15,complete,AD9344,,,100.0,,,,,,,,,,,,,,,15
+VE295706,2026-08-30T20:22:13,viewer_events,U8680,C009,City of Dreams,,,,,,,UK,laptop,complete,,,,,,,,,,S64408,1167,
+AE634033,2026-08-30T20:22:13,ad_events,U2699,C007,Shadow Protocol,60,impression,AD2839,,,100.0,,,,,,,,,,,,,,,60
+IE944326,2026-08-30T20:22:13,content_interactions,U4549,C001,The Last Horizon,,,,,,,,mobile,,comment,,,,,,,,,,,
+VE536356,2026-08-30T20:22:13,viewer_events,U9287,C007,Shadow Protocol,,,,,,,Singapore,mobile,play,,,,,,,,,,S18764,3113,
+IE181624,2026-08-30T20:22:13,content_interactions,U8340,C002,Midnight Mumbai,,,,,,,,laptop,,like,,,,,,,,,,,
+AE377965,2026-08-30T20:22:13,ad_events,U1087,C002,Midnight Mumbai,30,skip,AD1855,,,10.0,,,,,,,,,,,,,,,3
+SE374628,2026-08-30T20:22:13,social_sentiment,U9924,C010,Digital Hearts,,,,,,,,,,,,X,,Really enjoyed this show!,,,positive,0.34,,,
+QE541899,2026-08-30T20:22:13,streaming_qos,U3616,C003,Code Red,,,,4260,12.69,,,tablet,,,246,,False,,,,,,S10138,,
+AE743583,2026-08-30T20:22:13,ad_events,U1659,C008,The Last Kingdom,30,click,AD6097,,,13.33,,,,,,,,,,,,,,,4
+VE703162,2026-08-30T20:22:13,viewer_events,U4461,C003,Code Red,,,,,,,Canada,smart_tv,exit,,,,,,,,,,S54362,1523,
+IE139772,2026-08-30T20:22:13,content_interactions,U1746,C006,Beyond the Stars,,,,,,,,mobile,,rating,,,,,1,,,,,,
+AE901331,2026-08-30T20:22:13,ad_events,U9963,C003,Code Red,60,complete,AD7010,,,100.0,,,,,,,,,,,,,,,60
+AE933442,2026-08-30T20:22:13,ad_events,U5964,C004,The Final Season,60,impression,AD3446,,,1.67,,,,,,,,,,,,,,,1
+QE212231,2026-08-30T20:22:13,streaming_qos,U2725,C001,The Last Horizon,,,,5321,1.87,,,mobile,,,382,,True,,,,,,S44627,,
+QE379703,2026-08-30T20:22:13,streaming_qos,U1971,C004,The Final Season,,,,7959,29.08,,,tablet,,,424,,False,,,,,,S79136,,
+AE498563,2026-08-30T20:22:13,ad_events,U3777,C010,Digital Hearts,15,impression,AD3429,,,53.33,,,,,,,,,,,,,,,8
+SE607395,2026-08-30T20:22:13,social_sentiment,U4501,C010,Digital Hearts,,,,,,,,,,,,Instagram,,The episode was okay.,,,neutral,-0.07,,,
+VE608191,2026-08-30T20:22:13,viewer_events,U5166,C009,City of Dreams,,,,,,,India,smart_tv,complete,,,,,,,,,,S63975,1064,
+AE876150,2026-08-30T20:22:13,ad_events,U6490,C001,The Last Horizon,20,skip,AD7102,,,90.0,,,,,,,,,,,,,,,18
+SE555289,2026-08-30T20:22:13,social_sentiment,U5144,C006,Beyond the Stars,,,,,,,,,,,,YouTube,,The episode was disappointing.,,,negative,-0.37,,,
+SE292452,2026-08-30T20:22:13,social_sentiment,U9406,C007,Shadow Protocol,,,,,,,,,,,,X,,Loved this show!,,,positive,0.21,,,
+AE139482,2026-08-30T20:22:13,ad_events,U1931,C010,Digital Hearts,30,impression,AD1488,,,86.67,,,,,,,,,,,,,,,26
+SE928085,2026-08-30T20:22:13,social_sentiment,U8627,C002,Midnight Mumbai,,,,,,,,,,,,Instagram,,The episode was okay.,,,neutral,0.05,,,
+IE135001,2026-08-30T20:22:13,content_interactions,U9027,C006,Beyond the Stars,,,,,,,,mobile,,share,,,,,,,,,,,
+QE684381,2026-08-30T20:22:13,streaming_qos,U2292,C001,The Last Horizon,,,,4386,14.29,,,laptop,,,481,,True,,,,,,S40163,,
+SE955799,2026-08-30T20:22:13,social_sentiment,U3812,C006,Beyond the Stars,,,,,,,,,,,,YouTube,,Loved this show!,,,positive,0.5,,,
+VE987399,2026-08-30T20:22:13,viewer_events,U2684,C008,The Last Kingdom,,,,,,,Singapore,mobile,play,,,,,,,,,,S57622,3149,
+SE932788,2026-08-30T20:22:13,social_sentiment,U2358,C003,Code Red,,,,,,,,,,,,X,,It was an average episode.,,,neutral,-0.04,,,
+SE976052,2026-08-30T20:22:13,social_sentiment,U5081,C007,Shadow Protocol,,,,,,,,,,,,Facebook,,Not happy with the latest episode.,,,negative,-0.62,,,
+IE431555,2026-08-30T20:22:13,content_interactions,U5795,C005,Delhi Files,,,,,,,,laptop,,rating,,,,,2,,,,,,
+IE171110,2026-08-30T20:22:13,content_interactions,U9840,C002,Midnight Mumbai,,,,,,,,smart_tv,,rating,,,,,5,,,,,,
+AE587039,2026-08-30T20:22:13,ad_events,U3595,C009,City of Dreams,45,complete,AD7663,,,100.0,,,,,,,,,,,,,,,45
+AE722440,2026-08-30T20:22:13,ad_events,U2054,C002,Midnight Mumbai,45,click,AD8577,,,11.11,,,,,,,,,,,,,,,5
+VE390996,2026-08-30T20:22:13,viewer_events,U2656,C006,Beyond the Stars,,,,,,,Australia,smart_tv,skip,,,,,,,,,,S39778,2300,
+IE905030,2026-08-30T20:22:13,content_interactions,U5745,C001,The Last Horizon,,,,,,,,smart_tv,,like,,,,,,,,,,,
+IE663417,2026-08-30T20:22:13,content_interactions,U3848,C008,The Last Kingdom,,,,,,,,smart_tv,,rating,,,,,4,,,,,,
+VE516524,2026-08-30T20:22:13,viewer_events,U1823,C006,Beyond the Stars,,,,,,,Canada,laptop,exit,,,,,,,,,,S94907,2343,
+IE957708,2026-08-30T20:22:13,content_interactions,U4011,C008,The Last Kingdom,,,,,,,,smart_tv,,like,,,,,,,,,,,
+QE908477,2026-08-30T20:22:13,streaming_qos,U9995,C005,Delhi Files,,,,4882,21.49,,,laptop,,,212,,True,,,,,,S32733,,
+QE965100,2026-08-30T20:22:13,streaming_qos,U2707,C007,Shadow Protocol,,,,4877,10.9,,,mobile,,,266,,False,,,,,,S72664,,
+SE423369,2026-08-30T20:22:13,social_sentiment,U3032,C009,City of Dreams,,,,,,,,,,,,X,,This episode was amazing!,,,positive,0.94,,,
+VE615532,2026-08-30T20:22:13,viewer_events,U9830,C001,The Last Horizon,,,,,,,USA,tablet,exit,,,,,,,,,,S51448,450,
+QE224530,2026-08-30T20:22:13,streaming_qos,U8808,C009,City of Dreams,,,,1840,1.08,,,mobile,,,202,,False,,,,,,S76394,,
+VE687903,2026-08-30T20:22:13,viewer_events,U9947,C005,Delhi Files,,,,,,,Canada,smart_tv,complete,,,,,,,,,,S22901,1159,
+VE813664,2026-08-30T20:22:13,viewer_events,U5136,C008,The Last Kingdom,,,,,,,Australia,smart_tv,exit,,,,,,,,,,S36906,3334,
+IE229147,2026-08-30T20:22:13,content_interactions,U4767,C009,City of Dreams,,,,,,,,laptop,,rating,,,,,5,,,,,,
+AE170088,2026-08-30T20:22:13,ad_events,U4372,C003,Code Red,20,skip,AD2304,,,100.0,,,,,,,,,,,,,,,20
+SE787061,2026-08-30T20:22:13,social_sentiment,U1499,C008,The Last Kingdom,,,,,,,,,,,,X,,Amazing episode!,,,positive,0.75,,,
+AE687349,2026-08-30T20:22:13,ad_events,U8222,C003,Code Red,45,skip,AD8811,,,8.89,,,,,,,,,,,,,,,4
+VE435496,2026-08-30T20:22:13,viewer_events,U6712,C004,The Final Season,,,,,,,Singapore,smart_tv,exit,,,,,,,,,,S47258,3539,
+VE585318,2026-08-30T20:22:13,viewer_events,U2272,C008,The Last Kingdom,,,,,,,USA,mobile,pause,,,,,,,,,,S66570,330,
+VE127008,2026-08-30T20:22:13,viewer_events,U3430,C006,Beyond the Stars,,,,,,,UK,smart_tv,exit,,,,,,,,,,S89865,3068,
+IE893611,2026-08-30T20:22:13,content_interactions,U8398,C010,Digital Hearts,,,,,,,,smart_tv,,share,,,,,,,,,,,
+VE870476,2026-08-30T20:22:13,viewer_events,U6518,C009,City of Dreams,,,,,,,India,smart_tv,complete,,,,,,,,,,S82479,1716,
+QE976198,2026-08-30T20:22:13,streaming_qos,U4481,C006,Beyond the Stars,,,,6550,23.15,,,tablet,,,297,,True,,,,,,S82651,,
+AE394490,2026-08-30T20:22:13,ad_events,U9423,C003,Code Red,20,skip,AD3043,,,25.0,,,,,,,,,,,,,,,5
+AE901983,2026-08-30T20:22:13,ad_events,U5679,C008,The Last Kingdom,20,complete,AD6055,,,100.0,,,,,,,,,,,,,,,20
+SE965400,2026-08-30T20:22:13,social_sentiment,U9223,C007,Shadow Protocol,,,,,,,,,,,,Instagram,,Really enjoyed this show!,,,positive,0.34,,,
+VE865824,2026-08-30T20:22:13,viewer_events,U5527,C007,Shadow Protocol,,,,,,,Australia,tablet,exit,,,,,,,,,,S99490,2080,
+QE767291,2026-08-30T20:22:13,streaming_qos,U9971,C010,Digital Hearts,,,,3169,21.84,,,laptop,,,33,,True,,,,,,S40971,,
+QE387318,2026-08-30T20:22:13,streaming_qos,U3380,C007,Shadow Protocol,,,,1199,13.18,,,tablet,,,154,,False,,,,,,S43313,,
+AE559873,2026-08-30T20:22:13,ad_events,U6283,C010,Digital Hearts,30,skip,AD1823,,,70.0,,,,,,,,,,,,,,,21
+IE174682,2026-08-30T20:22:13,content_interactions,U1437,C006,Beyond the Stars,,,,,,,,mobile,,share,,,,,,,,,,,
+QE333418,2026-08-30T20:22:13,streaming_qos,U8461,C003,Code Red,,,,1063,24.79,,,smart_tv,,,245,,False,,,,,,S51506,,
+AE248344,2026-08-30T20:22:13,ad_events,U5806,C001,The Last Horizon,45,skip,AD5012,,,37.78,,,,,,,,,,,,,,,17
+IE360571,2026-08-30T20:22:13,content_interactions,U5201,C001,The Last Horizon,,,,,,,,smart_tv,,comment,,,,,,,,,,,
+IE625663,2026-08-30T20:22:13,content_interactions,U2810,C006,Beyond the Stars,,,,,,,,mobile,,share,,,,,,,,,,,
+VE622350,2026-08-30T20:22:13,viewer_events,U6643,C008,The Last Kingdom,,,,,,,India,mobile,play,,,,,,,,,,S92807,1161,
+IE476798,2026-08-30T20:22:13,content_interactions,U6719,C008,The Last Kingdom,,,,,,,,smart_tv,,search,,,,,,new movies,,,,,
+IE836507,2026-08-30T20:22:13,content_interactions,U7120,C008,The Last Kingdom,,,,,,,,mobile,,comment,,,,,,,,,,,
+QE375653,2026-08-30T20:22:13,streaming_qos,U5353,C010,Digital Hearts,,,,4346,5.49,,,smart_tv,,,358,,True,,,,,,S92197,,
+SE187720,2026-08-30T20:22:13,social_sentiment,U3723,C006,Beyond the Stars,,,,,,,,,,,,X,,Loved this show!,,,positive,0.27,,,
+QE248425,2026-08-30T20:22:13,streaming_qos,U8943,C006,Beyond the Stars,,,,2076,15.1,,,mobile,,,47,,True,,,,,,S88157,,
+SE433639,2026-08-30T20:22:13,social_sentiment,U8041,C009,City of Dreams,,,,,,,,,,,,Facebook,,I did not enjoy this episode.,,,negative,-0.94,,,
+VE516365,2026-08-30T20:22:13,viewer_events,U6637,C006,Beyond the Stars,,,,,,,UK,smart_tv,skip,,,,,,,,,,S37309,3548,
+VE748880,2026-08-30T20:22:13,viewer_events,U9224,C006,Beyond the Stars,,,,,,,USA,tablet,play,,,,,,,,,,S70026,3223,
+QE303824,2026-08-30T20:22:13,streaming_qos,U7621,C005,Delhi Files,,,,1820,7.33,,,mobile,,,182,,True,,,,,,S72911,,
+QE428658,2026-08-30T20:22:13,streaming_qos,U8409,C003,Code Red,,,,2473,15.54,,,mobile,,,126,,False,,,,,,S30977,,
+SE839513,2026-08-30T20:22:13,social_sentiment,U2378,C008,The Last Kingdom,,,,,,,,,,,,YouTube,,The episode was fine.,,,neutral,0.03,,,
+QE928534,2026-08-30T20:22:13,streaming_qos,U8541,C008,The Last Kingdom,,,,8545,9.96,,,mobile,,,72,,True,,,,,,S47976,,
+SE817121,2026-08-30T20:22:13,social_sentiment,U6532,C001,The Last Horizon,,,,,,,,,,,,YouTube,,The episode was okay.,,,neutral,-0.1,,,
+AE907310,2026-08-30T20:22:13,ad_events,U4494,C003,Code Red,20,skip,AD3244,,,45.0,,,,,,,,,,,,,,,9
+QE929295,2026-08-30T20:22:13,streaming_qos,U7705,C009,City of Dreams,,,,7371,4.88,,,smart_tv,,,422,,True,,,,,,S97843,,
+IE415622,2026-08-30T20:22:13,content_interactions,U3009,C004,The Final Season,,,,,,,,tablet,,like,,,,,,,,,,,
+IE482916,2026-08-30T20:22:13,content_interactions,U9236,C005,Delhi Files,,,,,,,,mobile,,rating,,,,,3,,,,,,
+SE271591,2026-08-30T20:22:13,social_sentiment,U2182,C003,Code Red,,,,,,,,,,,,Instagram,,This episode was amazing!,,,positive,0.94,,,
+QE731691,2026-08-30T20:22:13,streaming_qos,U7357,C006,Beyond the Stars,,,,4259,18.85,,,smart_tv,,,89,,False,,,,,,S15921,,
+SE503641,2026-08-30T20:22:13,social_sentiment,U8556,C003,Code Red,,,,,,,,,,,,YouTube,,The episode was fine.,,,neutral,-0.05,,,
+SE509901,2026-08-30T20:22:13,social_sentiment,U3173,C008,The Last Kingdom,,,,,,,,,,,,X,,The episode was okay.,,,neutral,-0.08,,,
+QE410917,2026-08-30T20:22:13,streaming_qos,U6393,C005,Delhi Files,,,,9437,12.99,,,mobile,,,360,,True,,,,,,S90723,,
+SE549153,2026-08-30T20:22:13,social_sentiment,U8535,C004,The Final Season,,,,,,,,,,,,X,,The story could be better.,,,negative,-0.71,,,
+VE159861,2026-08-30T20:22:13,viewer_events,U6983,C004,The Final Season,,,,,,,Australia,mobile,exit,,,,,,,,,,S75517,2265,
+IE161731,2026-08-30T20:22:13,content_interactions,U4200,C010,Digital Hearts,,,,,,,,laptop,,rating,,,,,3,,,,,,
+IE612472,2026-08-30T20:22:13,content_interactions,U3574,C005,Delhi Files,,,,,,,,mobile,,comment,,,,,,,,,,,
+SE481472,2026-08-30T20:22:13,social_sentiment,U6156,C001,The Last Horizon,,,,,,,,,,,,Facebook,,"Not bad, not great.",,,neutral,0.02,,,
+VE112822,2026-08-30T20:22:13,viewer_events,U3241,C010,Digital Hearts,,,,,,,UK,laptop,exit,,,,,,,,,,S84596,447,
+SE603037,2026-08-30T20:22:13,social_sentiment,U9562,C001,The Last Horizon,,,,,,,,,,,,YouTube,,Not happy with the latest episode.,,,negative,-0.3,,,
+IE793660,2026-08-30T20:22:13,content_interactions,U8589,C008,The Last Kingdom,,,,,,,,mobile,,comment,,,,,,,,,,,
+SE499928,2026-08-30T20:22:13,social_sentiment,U9923,C009,City of Dreams,,,,,,,,,,,,X,,I did not enjoy this episode.,,,negative,-0.85,,,
+IE142082,2026-08-30T20:22:13,content_interactions,U9306,C005,Delhi Files,,,,,,,,laptop,,comment,,,,,,,,,,,
+SE691840,2026-08-30T20:22:13,social_sentiment,U1933,C008,The Last Kingdom,,,,,,,,,,,,Instagram,,The episode was okay.,,,neutral,0.09,,,
+IE561543,2026-08-30T20:22:13,content_interactions,U5291,C002,Midnight Mumbai,,,,,,,,laptop,,share,,,,,,,,,,,
+VE643800,2026-08-30T20:22:13,viewer_events,U9414,C008,The Last Kingdom,,,,,,,Australia,laptop,exit,,,,,,,,,,S16687,1608,
+QE513749,2026-08-30T20:22:13,streaming_qos,U7815,C004,The Final Season,,,,6332,28.31,,,mobile,,,202,,False,,,,,,S24991,,
+IE319939,2026-08-30T20:22:13,content_interactions,U4335,C008,The Last Kingdom,,,,,,,,smart_tv,,search,,,,,,The Last Horizon,,,,,
+SE568256,2026-08-30T20:22:13,social_sentiment,U5017,C010,Digital Hearts,,,,,,,,,,,,X,,Really enjoyed this show!,,,positive,0.58,,,
+VE491687,2026-08-30T20:22:13,viewer_events,U8583,C010,Digital Hearts,,,,,,,Singapore,mobile,complete,,,,,,,,,,S67131,247,
+QE793994,2026-08-30T20:22:13,streaming_qos,U5236,C004,The Final Season,,,,8919,7.26,,,tablet,,,233,,True,,,,,,S10461,,
+IE903876,2026-08-30T20:22:13,content_interactions,U4703,C004,The Final Season,,,,,,,,laptop,,rating,,,,,3,,,,,,
+AE792538,2026-08-30T20:22:13,ad_events,U3482,C010,Digital Hearts,20,impression,AD3759,,,35.0,,,,,,,,,,,,,,,7
+SE207077,2026-08-30T20:22:13,social_sentiment,U1174,C009,City of Dreams,,,,,,,,,,,,Facebook,,Really enjoyed this show!,,,positive,0.69,,,
+SE543046,2026-08-30T20:22:13,social_sentiment,U7857,C003,Code Red,,,,,,,,,,,,X,,This episode was amazing!,,,positive,0.26,,,
+SE672769,2026-08-30T20:22:13,social_sentiment,U3087,C009,City of Dreams,,,,,,,,,,,,YouTube,,Loved this show!,,,positive,0.63,,,
+VE428900,2026-08-30T20:22:13,viewer_events,U3331,C007,Shadow Protocol,,,,,,,Australia,mobile,exit,,,,,,,,,,S79086,3351,
+VE506593,2026-08-30T20:22:13,viewer_events,U3373,C008,The Last Kingdom,,,,,,,Canada,tablet,complete,,,,,,,,,,S10197,2197,
+AE378209,2026-08-30T20:22:13,ad_events,U2896,C004,The Final Season,15,impression,AD3575,,,93.33,,,,,,,,,,,,,,,14
+IE828720,2026-08-30T20:22:13,content_interactions,U4178,C006,Beyond the Stars,,,,,,,,tablet,,like,,,,,,,,,,,
+SE252746,2026-08-30T20:22:13,social_sentiment,U5317,C003,Code Red,,,,,,,,,,,,Instagram,,Loved this show!,,,positive,0.18,,,
+VE435065,2026-08-30T20:22:13,viewer_events,U5510,C010,Digital Hearts,,,,,,,Australia,mobile,pause,,,,,,,,,,S13177,2312,
+AE558239,2026-08-30T20:22:13,ad_events,U3330,C004,The Final Season,20,complete,AD6668,,,100.0,,,,,,,,,,,,,,,20
+SE465100,2026-08-30T20:22:13,social_sentiment,U8033,C009,City of Dreams,,,,,,,,,,,,YouTube,,The show was interesting.,,,neutral,-0.06,,,
+QE256499,2026-08-30T20:22:13,streaming_qos,U2296,C002,Midnight Mumbai,,,,5075,4.84,,,mobile,,,234,,False,,,,,,S81731,,
+QE641968,2026-08-30T20:22:13,streaming_qos,U5743,C005,Delhi Files,,,,2285,25.26,,,mobile,,,64,,False,,,,,,S34157,,
+QE473247,2026-08-30T20:22:13,streaming_qos,U1779,C007,Shadow Protocol,,,,6386,8.47,,,smart_tv,,,49,,True,,,,,,S14151,,
+AE190187,2026-08-30T20:22:13,ad_events,U4476,C006,Beyond the Stars,15,impression,AD2350,,,0.0,,,,,,,,,,,,,,,0
+IE189495,2026-08-30T20:22:13,content_interactions,U1990,C005,Delhi Files,,,,,,,,tablet,,like,,,,,,,,,,,
+VE129925,2026-08-30T20:22:13,viewer_events,U9929,C004,The Final Season,,,,,,,Singapore,laptop,skip,,,,,,,,,,S47680,336,
+IE473120,2026-08-30T20:22:13,content_interactions,U8486,C007,Shadow Protocol,,,,,,,,laptop,,share,,,,,,,,,,,
+IE901881,2026-08-30T20:22:13,content_interactions,U9279,C008,The Last Kingdom,,,,,,,,mobile,,search,,,,,,new movies,,,,,
+QE460455,2026-08-30T20:22:13,streaming_qos,U1657,C002,Midnight Mumbai,,,,6003,1.93,,,smart_tv,,,76,,False,,,,,,S81923,,
+AE207698,2026-08-30T20:22:13,ad_events,U4233,C008,The Last Kingdom,30,skip,AD6836,,,6.67,,,,,,,,,,,,,,,2
+AE588568,2026-08-30T20:22:13,ad_events,U3977,C002,Midnight Mumbai,15,click,AD9610,,,66.67,,,,,,,,,,,,,,,10
+IE841400,2026-08-30T20:22:13,content_interactions,U5697,C007,Shadow Protocol,,,,,,,,tablet,,rating,,,,,5,,,,,,
+SE611562,2026-08-30T20:22:13,social_sentiment,U3342,C007,Shadow Protocol,,,,,,,,,,,,Instagram,,This episode was amazing!,,,positive,0.29,,,
+QE768749,2026-08-30T20:22:13,streaming_qos,U8054,C001,The Last Horizon,,,,6662,25.32,,,laptop,,,147,,True,,,,,,S33395,,
+AE875636,2026-08-30T20:22:13,ad_events,U5466,C007,Shadow Protocol,30,click,AD6961,,,76.67,,,,,,,,,,,,,,,23
+AE950539,2026-08-30T20:22:13,ad_events,U1411,C002,Midnight Mumbai,60,complete,AD6001,,,100.0,,,,,,,,,,,,,,,60
+VE281856,2026-08-30T20:22:13,viewer_events,U1149,C010,Digital Hearts,,,,,,,USA,smart_tv,pause,,,,,,,,,,S97472,242,
+AE890991,2026-08-30T20:22:13,ad_events,U1940,C006,Beyond the Stars,60,skip,AD6449,,,13.33,,,,,,,,,,,,,,,8
+VE775261,2026-08-30T20:22:13,viewer_events,U7522,C001,The Last Horizon,,,,,,,USA,tablet,play,,,,,,,,,,S39569,3181,
+IE721352,2026-08-30T20:22:13,content_interactions,U8271,C007,Shadow Protocol,,,,,,,,tablet,,like,,,,,,,,,,,
+SE840003,2026-08-30T20:22:13,social_sentiment,U2226,C005,Delhi Files,,,,,,,,,,,,X,,The episode was okay.,,,neutral,0.03,,,
+AE867271,2026-08-30T20:22:13,ad_events,U6929,C007,Shadow Protocol,60,skip,AD4549,,,65.0,,,,,,,,,,,,,,,39
+QE618420,2026-08-30T20:22:13,streaming_qos,U9084,C007,Shadow Protocol,,,,8909,3.87,,,smart_tv,,,37,,True,,,,,,S71694,,
+AE703279,2026-08-30T20:22:13,ad_events,U1674,C001,The Last Horizon,60,skip,AD4734,,,81.67,,,,,,,,,,,,,,,49
+QE744628,2026-08-30T20:22:13,streaming_qos,U9174,C007,Shadow Protocol,,,,8925,8.52,,,laptop,,,210,,True,,,,,,S34116,,
+VE921037,2026-08-30T20:22:13,viewer_events,U6702,C001,The Last Horizon,,,,,,,India,laptop,play,,,,,,,,,,S82185,3436,
+QE419163,2026-08-30T20:22:13,streaming_qos,U6014,C007,Shadow Protocol,,,,5392,29.52,,,smart_tv,,,418,,False,,,,,,S70293,,
+IE801549,2026-08-30T20:22:13,content_interactions,U8658,C005,Delhi Files,,,,,,,,smart_tv,,comment,,,,,,,,,,,
+QE186326,2026-08-30T20:22:13,streaming_qos,U7637,C003,Code Red,,,,3972,1.57,,,laptop,,,191,,True,,,,,,S31617,,
+QE808413,2026-08-30T20:22:13,streaming_qos,U6594,C009,City of Dreams,,,,8952,10.14,,,mobile,,,246,,False,,,,,,S60382,,
+QE798435,2026-08-30T20:22:13,streaming_qos,U4493,C009,City of Dreams,,,,9359,20.46,,,smart_tv,,,109,,True,,,,,,S95086,,
+VE704857,2026-08-30T20:22:13,viewer_events,U7208,C008,The Last Kingdom,,,,,,,UK,mobile,skip,,,,,,,,,,S43609,1962,
+VE974413,2026-08-30T20:22:13,viewer_events,U9078,C006,Beyond the Stars,,,,,,,Canada,smart_tv,play,,,,,,,,,,S25566,3535,
+VE814308,2026-08-30T20:22:13,viewer_events,U9753,C005,Delhi Files,,,,,,,USA,smart_tv,exit,,,,,,,,,,S45425,3099,
+VE898755,2026-08-30T20:22:13,viewer_events,U9903,C002,Midnight Mumbai,,,,,,,Canada,smart_tv,skip,,,,,,,,,,S43299,365,
+IE356198,2026-08-30T20:22:13,content_interactions,U7888,C002,Midnight Mumbai,,,,,,,,laptop,,comment,,,,,,,,,,,
+QE290618,2026-08-30T20:22:13,streaming_qos,U6274,C005,Delhi Files,,,,6980,18.44,,,mobile,,,211,,False,,,,,,S69710,,
+SE962028,2026-08-30T20:22:13,social_sentiment,U8693,C009,City of Dreams,,,,,,,,,,,,X,,Loved this show!,,,positive,0.4,,,
+SE115218,2026-08-30T20:22:13,social_sentiment,U7803,C009,City of Dreams,,,,,,,,,,,,Facebook,,The episode was too slow.,,,negative,-0.6,,,
+IE960544,2026-08-30T20:22:13,content_interactions,U2421,C010,Digital Hearts,,,,,,,,mobile,,like,,,,,,,,,,,
+AE662326,2026-08-30T20:22:13,ad_events,U5098,C002,Midnight Mumbai,60,click,AD7578,,,65.0,,,,,,,,,,,,,,,39
+AE556832,2026-08-30T20:22:13,ad_events,U4281,C005,Delhi Files,20,click,AD9062,,,15.0,,,,,,,,,,,,,,,3
+QE299077,2026-08-30T20:22:13,streaming_qos,U2128,C006,Beyond the Stars,,,,934,18.62,,,tablet,,,442,,False,,,,,,S81351,,
+QE441011,2026-08-30T20:22:13,streaming_qos,U8486,C003,Code Red,,,,9033,14.52,,,laptop,,,434,,False,,,,,,S92898,,
+IE780272,2026-08-30T20:22:13,content_interactions,U6652,C004,The Final Season,,,,,,,,tablet,,rating,,,,,2,,,,,,
+AE425712,2026-08-30T20:22:13,ad_events,U2310,C001,The Last Horizon,45,complete,AD1057,,,100.0,,,,,,,,,,,,,,,45
+SE554866,2026-08-30T20:22:13,social_sentiment,U8978,C002,Midnight Mumbai,,,,,,,,,,,,Facebook,,The episode was okay.,,,neutral,-0.07,,,
+VE578329,2026-08-30T20:22:13,viewer_events,U3268,C008,The Last Kingdom,,,,,,,India,tablet,pause,,,,,,,,,,S15279,2051,
+VE798476,2026-08-30T20:22:13,viewer_events,U7489,C009,City of Dreams,,,,,,,Canada,mobile,pause,,,,,,,,,,S16445,3182,
+QE400127,2026-08-30T20:22:13,streaming_qos,U2670,C003,Code Red,,,,7368,15.21,,,smart_tv,,,480,,True,,,,,,S71754,,
+AE581040,2026-08-30T20:22:13,ad_events,U9100,C006,Beyond the Stars,15,click,AD2822,,,53.33,,,,,,,,,,,,,,,8
+QE942692,2026-08-30T20:22:13,streaming_qos,U9186,C008,The Last Kingdom,,,,1765,7.65,,,smart_tv,,,281,,False,,,,,,S20216,,
+VE583851,2026-08-30T20:22:13,viewer_events,U8331,C003,Code Red,,,,,,,Singapore,laptop,skip,,,,,,,,,,S25626,2384,
+AE836820,2026-08-30T20:22:13,ad_events,U1394,C002,Midnight Mumbai,15,complete,AD8222,,,100.0,,,,,,,,,,,,,,,15
+SE258504,2026-08-30T20:22:13,social_sentiment,U6363,C003,Code Red,,,,,,,,,,,,Facebook,,Loved this show!,,,positive,0.94,,,
+SE254790,2026-08-30T20:22:13,social_sentiment,U7870,C008,The Last Kingdom,,,,,,,,,,,,Instagram,,"Not bad, not great.",,,neutral,-0.01,,,
+SE623266,2026-08-30T20:22:13,social_sentiment,U5626,C007,Shadow Protocol,,,,,,,,,,,,Instagram,,The episode was too slow.,,,negative,-0.86,,,
+SE743211,2026-08-30T20:22:13,social_sentiment,U2801,C009,City of Dreams,,,,,,,,,,,,Instagram,,Not happy with the latest episode.,,,negative,-0.13,,,
+QE681622,2026-08-30T20:22:13,streaming_qos,U6108,C007,Shadow Protocol,,,,3911,19.61,,,laptop,,,137,,True,,,,,,S48235,,
+AE207464,2026-08-30T20:22:13,ad_events,U6813,C005,Delhi Files,45,skip,AD9082,,,20.0,,,,,,,,,,,,,,,9
+IE250522,2026-08-30T20:22:13,content_interactions,U6827,C001,The Last Horizon,,,,,,,,smart_tv,,search,,,,,,latest episode,,,,,
+AE690320,2026-08-30T20:22:13,ad_events,U6508,C007,Shadow Protocol,15,skip,AD6082,,,86.67,,,,,,,,,,,,,,,13
+QE416982,2026-08-30T20:22:13,streaming_qos,U9182,C006,Beyond the Stars,,,,1149,16.15,,,smart_tv,,,45,,False,,,,,,S52491,,
+SE310450,2026-08-30T20:22:13,social_sentiment,U7843,C002,Midnight Mumbai,,,,,,,,,,,,Facebook,,Fantastic series!,,,positive,0.12,,,
+QE890582,2026-08-30T20:22:13,streaming_qos,U9232,C008,The Last Kingdom,,,,7833,22.34,,,laptop,,,377,,True,,,,,,S32838,,
+IE384623,2026-08-30T20:22:13,content_interactions,U9229,C010,Digital Hearts,,,,,,,,mobile,,rating,,,,,1,,,,,,
+QE182982,2026-08-30T20:22:13,streaming_qos,U9549,C007,Shadow Protocol,,,,5950,2.89,,,laptop,,,453,,False,,,,,,S11242,,
+AE834692,2026-08-30T20:22:13,ad_events,U8722,C008,The Last Kingdom,60,complete,AD9620,,,100.0,,,,,,,,,,,,,,,60
+AE734779,2026-08-30T20:22:13,ad_events,U5585,C006,Beyond the Stars,20,click,AD6317,,,40.0,,,,,,,,,,,,,,,8
+AE471800,2026-08-30T20:22:13,ad_events,U5879,C004,The Final Season,60,click,AD5134,,,20.0,,,,,,,,,,,,,,,12
+VE607984,2026-08-30T20:22:13,viewer_events,U3397,C008,The Last Kingdom,,,,,,,USA,tablet,pause,,,,,,,,,,S53176,2619,
+AE209853,2026-08-30T20:22:13,ad_events,U4167,C007,Shadow Protocol,60,impression,AD2126,,,88.33,,,,,,,,,,,,,,,53
+SE760581,2026-08-30T20:22:13,social_sentiment,U1942,C003,Code Red,,,,,,,,,,,,YouTube,,Amazing episode!,,,positive,0.19,,,
+VE707359,2026-08-30T20:22:13,viewer_events,U2613,C004,The Final Season,,,,,,,India,mobile,pause,,,,,,,,,,S59710,3555,
+QE945055,2026-08-30T20:22:13,streaming_qos,U1678,C003,Code Red,,,,624,4.55,,,smart_tv,,,325,,False,,,,,,S19455,,
+IE130750,2026-08-30T20:22:13,content_interactions,U9299,C008,The Last Kingdom,,,,,,,,tablet,,comment,,,,,,,,,,,
+AE213830,2026-08-30T20:22:13,ad_events,U3344,C009,City of Dreams,15,click,AD7170,,,13.33,,,,,,,,,,,,,,,2
+VE874100,2026-08-30T20:22:13,viewer_events,U6168,C010,Digital Hearts,,,,,,,Australia,smart_tv,pause,,,,,,,,,,S87382,1065,
+QE727180,2026-08-30T20:22:13,streaming_qos,U8156,C003,Code Red,,,,3719,2.0,,,tablet,,,324,,True,,,,,,S27288,,
+SE984950,2026-08-30T20:22:13,social_sentiment,U5008,C006,Beyond the Stars,,,,,,,,,,,,YouTube,,The episode was fine.,,,neutral,-0.0,,,
+IE697471,2026-08-30T20:22:13,content_interactions,U7482,C001,The Last Horizon,,,,,,,,tablet,,rating,,,,,2,,,,,,
+SE776366,2026-08-30T20:22:13,social_sentiment,U1748,C009,City of Dreams,,,,,,,,,,,,YouTube,,I did not enjoy this episode.,,,negative,-0.33,,,
+AE555963,2026-08-30T20:22:13,ad_events,U3194,C007,Shadow Protocol,20,click,AD8633,,,30.0,,,,,,,,,,,,,,,6
+VE893769,2026-08-30T20:22:13,viewer_events,U8373,C002,Midnight Mumbai,,,,,,,Canada,mobile,exit,,,,,,,,,,S58021,1985,
+IE626085,2026-08-30T20:22:13,content_interactions,U6693,C007,Shadow Protocol,,,,,,,,smart_tv,,search,,,,,,Code Red,,,,,
+VE263014,2026-08-30T20:22:13,viewer_events,U7660,C001,The Last Horizon,,,,,,,Canada,smart_tv,play,,,,,,,,,,S57669,3485,
+VE265781,2026-08-30T20:22:13,viewer_events,U2512,C005,Delhi Files,,,,,,,India,smart_tv,skip,,,,,,,,,,S82695,3271,
+IE331428,2026-08-30T20:22:13,content_interactions,U5388,C008,The Last Kingdom,,,,,,,,tablet,,comment,,,,,,,,,,,
+SE550047,2026-08-30T20:22:13,social_sentiment,U7391,C001,The Last Horizon,,,,,,,,,,,,X,,It was an average episode.,,,neutral,0.05,,,
+IE438376,2026-08-30T20:22:13,content_interactions,U3554,C006,Beyond the Stars,,,,,,,,smart_tv,,search,,,,,,Delhi Files,,,,,
+IE489244,2026-08-30T20:22:13,content_interactions,U1787,C005,Delhi Files,,,,,,,,laptop,,search,,,,,,best thriller series,,,,,
+SE192023,2026-08-30T20:22:13,social_sentiment,U7136,C009,City of Dreams,,,,,,,,,,,,X,,Not happy with the latest episode.,,,negative,-0.18,,,
+IE321278,2026-08-30T20:22:13,content_interactions,U4080,C009,City of Dreams,,,,,,,,smart_tv,,rating,,,,,2,,,,,,
+AE461984,2026-08-30T20:22:13,ad_events,U9534,C007,Shadow Protocol,45,skip,AD5396,,,100.0,,,,,,,,,,,,,,,45
+IE232150,2026-08-30T20:22:13,content_interactions,U5536,C009,City of Dreams,,,,,,,,tablet,,rating,,,,,4,,,,,,
+VE704108,2026-08-30T20:22:13,viewer_events,U9265,C003,Code Red,,,,,,,UK,mobile,play,,,,,,,,,,S38962,290,
+QE520832,2026-08-30T20:22:13,streaming_qos,U2005,C009,City of Dreams,,,,4970,7.43,,,laptop,,,63,,False,,,,,,S28438,,
+IE972912,2026-08-30T20:22:13,content_interactions,U8368,C004,The Final Season,,,,,,,,laptop,,share,,,,,,,,,,,
+SE174930,2026-08-30T20:22:13,social_sentiment,U6373,C010,Digital Hearts,,,,,,,,,,,,Instagram,,The episode was too slow.,,,negative,-0.37,,,
+QE489459,2026-08-30T20:22:13,streaming_qos,U2477,C009,City of Dreams,,,,3356,18.84,,,tablet,,,181,,False,,,,,,S15473,,
+AE945649,2026-08-30T20:22:13,ad_events,U2997,C001,The Last Horizon,20,impression,AD9600,,,75.0,,,,,,,,,,,,,,,15
+VE256737,2026-08-30T20:22:13,viewer_events,U1916,C001,The Last Horizon,,,,,,,Australia,laptop,pause,,,,,,,,,,S26915,2931,
+QE192913,2026-08-30T20:22:13,streaming_qos,U2385,C010,Digital Hearts,,,,6273,29.52,,,tablet,,,453,,True,,,,,,S24005,,
+SE360651,2026-08-30T20:22:13,social_sentiment,U7359,C009,City of Dreams,,,,,,,,,,,,Facebook,,Amazing episode!,,,positive,0.73,,,
+VE695999,2026-08-30T20:22:13,viewer_events,U4028,C009,City of Dreams,,,,,,,UK,tablet,skip,,,,,,,,,,S66860,1855,
+AE522069,2026-08-30T20:22:13,ad_events,U7117,C001,The Last Horizon,20,click,AD9957,,,65.0,,,,,,,,,,,,,,,13
+IE235524,2026-08-30T20:22:13,content_interactions,U6535,C006,Beyond the Stars,,,,,,,,tablet,,rating,,,,,2,,,,,,
+AE579006,2026-08-30T20:22:13,ad_events,U8547,C007,Shadow Protocol,45,skip,AD1596,,,73.33,,,,,,,,,,,,,,,33
+QE316263,2026-08-30T20:22:13,streaming_qos,U7568,C006,Beyond the Stars,,,,809,1.82,,,smart_tv,,,319,,True,,,,,,S99081,,
+QE521336,2026-08-30T20:22:13,streaming_qos,U2261,C007,Shadow Protocol,,,,3358,16.14,,,mobile,,,373,,True,,,,,,S76017,,
+SE264586,2026-08-30T20:22:13,social_sentiment,U9767,C005,Delhi Files,,,,,,,,,,,,Facebook,,The episode was fine.,,,neutral,-0.07,,,
+SE284301,2026-08-30T20:22:13,social_sentiment,U8387,C010,Digital Hearts,,,,,,,,,,,,Instagram,,The episode was okay.,,,neutral,-0.08,,,
+IE955060,2026-08-30T20:22:13,content_interactions,U2524,C004,The Final Season,,,,,,,,tablet,,share,,,,,,,,,,,
+IE905256,2026-08-30T20:22:13,content_interactions,U7231,C007,Shadow Protocol,,,,,,,,laptop,,like,,,,,,,,,,,
+VE485894,2026-08-30T20:22:13,viewer_events,U2159,C007,Shadow Protocol,,,,,,,USA,mobile,play,,,,,,,,,,S32995,156,
+SE796108,2026-08-30T20:22:13,social_sentiment,U6248,C003,Code Red,,,,,,,,,,,,Facebook,,I did not enjoy this episode.,,,negative,-0.83,,,
+QE474467,2026-08-30T20:22:13,streaming_qos,U8792,C010,Digital Hearts,,,,3808,2.68,,,laptop,,,166,,True,,,,,,S73398,,
+SE631446,2026-08-30T20:22:13,social_sentiment,U9578,C003,Code Red,,,,,,,,,,,,Facebook,,I did not enjoy this episode.,,,negative,-0.98,,,
+SE842908,2026-08-30T20:22:13,social_sentiment,U8705,C002,Midnight Mumbai,,,,,,,,,,,,YouTube,,The episode was disappointing.,,,negative,-0.11,,,
+QE382434,2026-08-30T20:22:13,streaming_qos,U1056,C010,Digital Hearts,,,,3577,25.67,,,tablet,,,447,,False,,,,,,S16338,,
+IE894857,2026-08-30T20:22:13,content_interactions,U2184,C002,Midnight Mumbai,,,,,,,,tablet,,share,,,,,,,,,,,
+QE294892,2026-08-30T20:22:13,streaming_qos,U3146,C005,Delhi Files,,,,7080,25.29,,,laptop,,,155,,True,,,,,,S97896,,
+IE334703,2026-08-30T20:22:13,content_interactions,U5080,C006,Beyond the Stars,,,,,,,,laptop,,share,,,,,,,,,,,
+AE956048,2026-08-30T20:22:13,ad_events,U7491,C006,Beyond the Stars,60,skip,AD9140,,,41.67,,,,,,,,,,,,,,,25
+AE122862,2026-08-30T20:22:13,ad_events,U5103,C004,The Final Season,15,impression,AD7454,,,66.67,,,,,,,,,,,,,,,10
+QE625091,2026-08-30T20:22:13,streaming_qos,U3148,C007,Shadow Protocol,,,,1046,19.26,,,mobile,,,457,,False,,,,,,S52098,,
+VE394563,2026-08-30T20:22:13,viewer_events,U6086,C001,The Last Horizon,,,,,,,Singapore,tablet,complete,,,,,,,,,,S30916,3186,
+AE671369,2026-08-30T20:22:13,ad_events,U2709,C006,Beyond the Stars,30,click,AD7154,,,96.67,,,,,,,,,,,,,,,29
+AE444725,2026-08-30T20:22:13,ad_events,U3062,C002,Midnight Mumbai,60,skip,AD1938,,,11.67,,,,,,,,,,,,,,,7
+SE673182,2026-08-30T20:22:13,social_sentiment,U7640,C004,The Final Season,,,,,,,,,,,,X,,The episode was too slow.,,,negative,-0.42,,,
+IE579625,2026-08-30T20:22:13,content_interactions,U9548,C003,Code Red,,,,,,,,laptop,,like,,,,,,,,,,,
+AE810601,2026-08-30T20:22:13,ad_events,U7111,C002,Midnight Mumbai,15,complete,AD6735,,,100.0,,,,,,,,,,,,,,,15
+QE143572,2026-08-30T20:22:13,streaming_qos,U3046,C003,Code Red,,,,7227,13.05,,,mobile,,,470,,True,,,,,,S92945,,
+IE944543,2026-08-30T20:22:13,content_interactions,U4506,C005,Delhi Files,,,,,,,,mobile,,share,,,,,,,,,,,
+AE456483,2026-08-30T20:22:13,ad_events,U9644,C006,Beyond the Stars,45,skip,AD5085,,,57.78,,,,,,,,,,,,,,,26
+AE179778,2026-08-30T20:22:13,ad_events,U4763,C007,Shadow Protocol,45,complete,AD8925,,,100.0,,,,,,,,,,,,,,,45
+VE881859,2026-08-30T20:22:13,viewer_events,U1653,C001,The Last Horizon,,,,,,,UK,smart_tv,complete,,,,,,,,,,S62347,2141,
+VE812089,2026-08-30T20:22:13,viewer_events,U8759,C004,The Final Season,,,,,,,UK,mobile,pause,,,,,,,,,,S91238,714,
+IE781062,2026-08-30T20:22:13,content_interactions,U6177,C006,Beyond the Stars,,,,,,,,laptop,,search,,,,,,latest episode,,,,,
+QE285730,2026-08-30T20:22:13,streaming_qos,U8840,C006,Beyond the Stars,,,,2378,3.89,,,smart_tv,,,29,,False,,,,,,S76010,,
+QE767111,2026-08-30T20:22:13,streaming_qos,U1620,C010,Digital Hearts,,,,7563,16.64,,,laptop,,,203,,False,,,,,,S29574,,
+IE101685,2026-08-30T20:22:13,content_interactions,U5269,C004,The Final Season,,,,,,,,tablet,,like,,,,,,,,,,,
+SE339082,2026-08-30T20:22:13,social_sentiment,U8170,C001,The Last Horizon,,,,,,,,,,,,YouTube,,The episode was disappointing.,,,negative,-0.3,,,
+SE196766,2026-08-30T20:22:13,social_sentiment,U8104,C007,Shadow Protocol,,,,,,,,,,,,YouTube,,I did not enjoy this episode.,,,negative,-0.81,,,
+QE238052,2026-08-30T20:22:13,streaming_qos,U4992,C003,Code Red,,,,765,8.46,,,mobile,,,133,,True,,,,,,S69816,,
+AE115094,2026-08-30T20:22:13,ad_events,U9585,C010,Digital Hearts,60,complete,AD2686,,,100.0,,,,,,,,,,,,,,,60
+VE342072,2026-08-30T20:22:13,viewer_events,U8984,C005,Delhi Files,,,,,,,Australia,laptop,skip,,,,,,,,,,S95080,2531,
+VE207738,2026-08-30T20:22:13,viewer_events,U3544,C006,Beyond the Stars,,,,,,,Australia,mobile,complete,,,,,,,,,,S98381,3587,
+SE832104,2026-08-30T20:22:13,social_sentiment,U9948,C001,The Last Horizon,,,,,,,,,,,,Instagram,,The episode was fine.,,,neutral,0.07,,,
+AE669258,2026-08-30T20:22:13,ad_events,U7019,C007,Shadow Protocol,15,complete,AD8871,,,100.0,,,,,,,,,,,,,,,15
+VE384152,2026-08-30T20:22:13,viewer_events,U5581,C004,The Final Season,,,,,,,USA,smart_tv,pause,,,,,,,,,,S38395,2345,
+IE423952,2026-08-30T20:22:13,content_interactions,U2434,C006,Beyond the Stars,,,,,,,,tablet,,like,,,,,,,,,,,
+QE684108,2026-08-30T20:22:13,streaming_qos,U6249,C005,Delhi Files,,,,3846,26.14,,,tablet,,,403,,False,,,,,,S56917,,
+AE608720,2026-08-30T20:22:13,ad_events,U2194,C001,The Last Horizon,30,click,AD9317,,,96.67,,,,,,,,,,,,,,,29
+SE403088,2026-08-30T20:22:13,social_sentiment,U1288,C003,Code Red,,,,,,,,,,,,Facebook,,This episode was amazing!,,,positive,0.41,,,
+SE287006,2026-08-30T20:22:13,social_sentiment,U3429,C002,Midnight Mumbai,,,,,,,,,,,,YouTube,,Really enjoyed this show!,,,positive,0.37,,,
+VE125789,2026-08-30T20:22:13,viewer_events,U3079,C008,The Last Kingdom,,,,,,,USA,tablet,play,,,,,,,,,,S50651,1291,
